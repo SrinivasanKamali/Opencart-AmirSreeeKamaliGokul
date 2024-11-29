@@ -1,0 +1,15 @@
+14:51:15.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\srini\eclipse-workspace\Opencart-AmirSreeeKamaliGokul\src\test\java\testCases\testng.xml
+
+ 14:52:08.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\srini\eclipse-workspace\Opencart-AmirSreeeKamaliGokul\src\test\java\testCases\testng.xml
+
+ 14:58:09.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\srini\eclipse-workspace\Opencart-AmirSreeeKamaliGokul\src\test\java\testCases\testng.xml
+
+ 14:59:10.744 [main] INFO  testCases.T002_LoginTest - ****** Starting T002_LoginTest *****
+ 15:00:33.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\srini\eclipse-workspace\Opencart-AmirSreeeKamaliGokul\src\test\java\testCases\testng.xml
+
+ 15:04:04.385 [main] INFO  testCases.T002_LoginTest - ****** Starting T002_LoginTest *****
+ 
